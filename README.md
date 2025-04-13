@@ -43,16 +43,19 @@ The dataset includes information such as:
 > ✨ Replace the placeholder below with actual images once you take screenshots from Power BI.
 
 ### 🔹 Overall Dashboard  
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/overall dashboard.png)
 
-### 🔹 Gender-based Comparison  
-![Gender Chart](images/gender_comparison.png)
+### 🔹 Equity analysis
+![Gender Chart](images/Equity analysis.png)
 
-### 🔹 Savings Objectives vs. Investment Avenues  
-![Objective Chart](images/objectives_vs_avenues.png)
+### 🔹FD analysis  
+![Objective Chart](images/FD analysis.png)
 
-### 🔹 Duration & Monitoring Frequency  
-![Duration Chart](images/duration_frequency.png)
+### 🔹Mutual Fund analysis  
+![Duration Chart](images/Mutual Fund analysis.png)
+
+### 🔹PPF analysis  
+![Duration Chart](images/PPF analysis.png)
 
 ---
 
