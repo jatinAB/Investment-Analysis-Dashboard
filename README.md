@@ -43,10 +43,10 @@ The dataset includes information such as:
 > ✨ Replace the placeholder below with actual images once you take screenshots from Power BI.
 
 ### 🔹 Overall Dashboard  
-![Dashboard Overview](images/overall dashboard.png)
+(images/overall dashboard.png)
 
 ### 🔹 Equity analysis
-![Gender Chart](images/Equity analysis.png)
+![Gender Chart](images/equity analysis.png)
 
 ### 🔹FD analysis  
 ![Objective Chart](images/FD analysis.png)
